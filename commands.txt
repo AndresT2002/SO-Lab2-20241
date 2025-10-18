@@ -1,2 +1,2 @@
-Con este comando se pueden ejecutar todos los tests:
+Con este comando se pueden ejecutar todos los tests (estando dentro de la carpeta de enunciado):
 chmod +x ../tester/run-tests.sh && ./test-wish.sh -c 2>&1 | head -80
