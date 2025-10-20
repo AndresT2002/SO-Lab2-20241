@@ -112,3 +112,5 @@ La implementación del shell `wish` demuestra la comprensión de conceptos funda
 - Manejo de entrada/salida del sistema
 - Gestión de memoria dinámica
 - Parsing y análisis sintáctico
+
+## Enlace Video: https://youtu.be/nSn-a_PgZSw
